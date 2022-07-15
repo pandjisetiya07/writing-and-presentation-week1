@@ -34,4 +34,6 @@ __PANDJI SETIYA BUDHI ARTHA__ -- _Tugas writing minggu pertama_
 2. __GIT & GITHUB__
 * GIT - berfungsi sebagai _Version Control System_ yang tugasnya __Mencatat__ setiap __perubahan pada File__. Pada suatu proyek baik __individu maupun tim__, GIT biasanya digunakan oleh programmer sebagai tempat __menyimpan__ file.
 <br>
-- __Mengecek instalasi GIT berhasil__<br>
+- __Mengecek instalasi GIT__<br>
+![git version](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/git%20version.PNG?raw=true)
+Apa bila muncul seperti gambar di atas maka __Instalasi Berhasil__
