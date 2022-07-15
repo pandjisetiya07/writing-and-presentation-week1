@@ -16,6 +16,7 @@ __PANDJI SETIYA BUDHI ARTHA__ -- _Tugas writing minggu pertama_
 
 | __No__ | __Command__ | __Keterangan__ |
 |--------|-------------|----------------|
-|    1   | LS          | Melihat __All Folder__ di dalam directory |
-|    2   | CD          | Masuk kedalam __Folder Tertentu__ |
+|    1   | ls          | Melihat __All Folder__ di dalam directory |
+|    2   | cd          | Masuk kedalam __Folder Tertentu__ |
 |    3   | cd D/C:     | Masuk Directory __Local Disk(D)/(E)__ |
+|    4   | cd ..       | Untuk __Keluar__ dari folder |
