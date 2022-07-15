@@ -12,4 +12,8 @@ __PANDJI SETIYA BUDHI ARTHA__ -- _Tugas writing minggu pertama_
  
 ---------------------------------------------------------------
 1. Terminal Basic<br>
-    Sebuah Command untuk mengntrol file, membuat file, membuat folder, membuat akses, merubah akses ataupun membaca, membuat, merubah file, dan masih banyak lagi fungsi yang lainnya.
+    Sebuah Command untuk mengntrol file, membuat file, membuat folder, membuat akses, merubah akses ataupun membaca, membuat, merubah file, dan masih banyak lagi fungsi yang lainnya. Adapun perintah umum terminal basic dapat dilihat pada tabel di bawah ini :<br>
+
+| __No__ | __Command__ | __Keterangan__ |
+|--------|-------------|----------------|
+|    1   | LS          | Melihat __All Folder__ di dalam directory |
