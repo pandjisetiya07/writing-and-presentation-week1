@@ -22,3 +22,5 @@ __PANDJI SETIYA BUDHI ARTHA__ -- _Tugas writing minggu pertama_
 |    4   | cd ..       | Untuk __Keluar__ dari folder |
 |    5   | touch       | Membuat __File Baru__ pada OS Linux dan Mac |
 |    6   | ni          | Membuat __File Baru__ pada OS windows |
+|    7   | cp          | Untuk __Copy File__  di dalam satu folder / antar folder lainnya|
+|    8   | cp -r       | Untuk __Mengcopy Suatu Folder__ |
