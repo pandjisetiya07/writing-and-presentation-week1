@@ -12,4 +12,4 @@ __PANDJI SETIYA BUDHI ARTHA__ -- _Tugas writing minggu pertama_
  
 ---------------------------------------------------------------
 1. Terminal Basic<br>
-    
+    Sebuah Command untuk mengntrol file, membuat file, membuat folder, membuat akses, merubah akses ataupun membaca, membuat, merubah file, dan masih banyak lagi fungsi yang lainnya.
