@@ -10,3 +10,6 @@ __PANDJI SETIYA BUDHI ARTHA__ -- _Tugas writing minggu pertama_
 |  4 | CSS Dasar                   |
 |  5 | Algritma dan Pseudoceode    |
  
+---------------------------------------------------------------
+1. Terminal Basic<br>
+    
