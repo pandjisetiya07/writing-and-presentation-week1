@@ -36,5 +36,8 @@ __PANDJI SETIYA BUDHI ARTHA__ -- _Tugas writing minggu pertama_
 <br>
 
 - __Mengecek instalasi GIT__<br>
-![git version](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/git%20version.PNG?raw=true)
-Apa bila muncul seperti gambar di atas maka __Instalasi Berhasil__
+![git version](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/git%20version.PNG?raw=true)<br>
+Apa bila muncul seperti gambar di atas maka __Instalasi Berhasil__<br>
+
+- __Setup Awal__<br>
+Untuk setup awal bisa menggunakan code <br>__git config --global user.name "Nama Kalian"__ <br> __git config --global user.email "Alamat Email"__
