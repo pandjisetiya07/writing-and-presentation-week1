@@ -26,3 +26,6 @@ __PANDJI SETIYA BUDHI ARTHA__ -- _Tugas writing minggu pertama_
 |    8   | cp -r       | Untuk __Mengcopy Suatu Folder__ |
 |    9   | mv          | __Memindahkan File / Folder__ ke dalam directory baru, apabila file atau folder mengandung spasi dapat menggunakan __"nama file/folder"__ |
 |   10   | rm & rm -r  | Untuk __Menghapus file & folder__ apabila ingin menghapus lebih dari satu file bisa menggunakan tanda __( , )__ |
+|   11   | mkdir       | Untuk membuat __Folder baru__ |
+|   12   | pwd         | Untuk __Menampilkan sedang posisi saat ini__ |
+|   13   | clear       | Menghapus semua command yang ada |
