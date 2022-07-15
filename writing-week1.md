@@ -1,1 +1,3 @@
 # TUGAS WRITING-AND_PRESENTATION-WEEK1
+
+__PANDJI SETIYA BUDHI ARTHA__ -- _Tugas writing minggu pertama_
