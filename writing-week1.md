@@ -29,3 +29,6 @@ __PANDJI SETIYA BUDHI ARTHA__ -- _Tugas writing minggu pertama_
 |   11   | mkdir       | Untuk membuat __Folder baru__ |
 |   12   | pwd         | Untuk __Menampilkan sedang posisi saat ini__ |
 |   13   | clear       | Menghapus semua command yang ada |
+
+-----------------------------------------------------------------------------
+2. __GIT & GITHUB__
