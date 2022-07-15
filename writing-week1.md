@@ -18,5 +18,6 @@ __PANDJI SETIYA BUDHI ARTHA__ -- _Tugas writing minggu pertama_
 |--------|-------------|----------------|
 |    1   | ls          | Melihat __All Folder__ di dalam directory |
 |    2   | cd          | Masuk kedalam __Folder Tertentu__ |
-|    3   | cd D/C:     | Masuk Directory __Local Disk(D)/(E)__ |
+|    3   | cd D/E:     | Masuk Directory __Local Disk(D)/(E)__ |
 |    4   | cd ..       | Untuk __Keluar__ dari folder |
+|    5   | touch       | Membuat __file Baru__ pada OS Linux dan Mac |
