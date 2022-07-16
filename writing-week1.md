@@ -86,4 +86,13 @@ ATTRIBUT adalah __properties__ dari sebuah HTML dan hampir semua HTML __memiliki
 Pada contoh di atas terdapat beberapa contoh __attribut__ yang kerap digunakan oleh _programmer_ yaitu __id, class, src, href__. Namun Attribut yang sering digunakan dalam HTML adalah attribut __class__. <br>
 [ x ] __HTML TABLE__ <br>
 Salah satu elemen yang akan sering digunakan, elemen ini akan menampilkan tabel pada halaman browser kita, contoh penulisan code tabel di html : <br>
-![html tabel](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/html%20tabel.png?raw=true)
+![html tabel](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/html%20tabel.png?raw=true) <br>
+Pada gambar di atas terdapat beberapa tag yang berhubungan dengan table yaitu __``` <tabel>, <tr>, <th>, <td> ```__. <br>
+- Tag __```<table>```__ digunakan untuk mendeklarasikan pembuka dan penutup table. <br>
+- Tag __```<tr>```__ berfungsi untuk membuat baris pada tabel (table row). <br>
+- Tag __```<th>```__ digunakan untuk mengelompokkan bagian header tabel.  <br>
+- Tag __```<td>```__ digunakan untuk membuat kolom di dalam baris tabel di HTML sehingga akan membentuk sel (table data) <br>
+Adapun tag lain sepeti __``<thead> <tbody> <tfoot>``__ <br>
+- Tag __``<thead>``__ digunakan untuk mengelompokkan bagian header tabel. <br>
+- Tag __``<tbody>``__ digunakan untuk mengelompokkan bagian konten atau body tabel.
+- Tag __``<tfoot>``__ digunakan untuk mengelompokkan bagian footer dari tabel.
