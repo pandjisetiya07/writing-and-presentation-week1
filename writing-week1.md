@@ -72,4 +72,5 @@ Apa Bila berhasil maka akan muncul seperti gambar di bawah.<br>
 HTML adalah suatu kerangka dari sebuah website yang digunkan untuk __menampilkan konten pada browser__. Konten yang dapat di tampilkan seperti __TEXT, IMAGE, VIDEO, LINK, dan masih banyak lagi__<br>
 
 - Dasar - dasar HTML <br>
-[ x ] Membuat file HTML --> buat file baru dengan extensi __.html / .htm__
+[ x ] __Membuat file HTML__ --> buat file baru dengan extensi __.html / .htm__ <br>
+[ x ] __Setruktur HTML__ <br>
