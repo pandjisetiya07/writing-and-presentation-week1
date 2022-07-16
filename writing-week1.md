@@ -58,7 +58,7 @@ Apa Bila berhasil maka akan muncul seperti gambar di bawah.<br>
 |   4    | git log     |
 |   5    | git revert  |
 |   6    | git reset   |
-|   7    | 
-|   8    | 
+|   7    | git branch   |
+|   8    | git branch -d |
 |   9    | 
 |  10    | 
