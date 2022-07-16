@@ -83,4 +83,5 @@ Gambar di atas mendefinisakan __html element__ terdiri dari : __element, tag buk
 [ x ] __HTML ATTRIBUT__ <br>
 ATTRIBUT adalah __properties__ dari sebuah HTML dan hampir semua HTML __memiliki element attribut__. seperti pada contoh gambar dibawah ini : <br>
 ![html atribut](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/html%20atribut.PNG?raw=true) <br>
-Pada contoh di atas terdapat beberapa contoh __attribut__ yang kerap digunakan oleh _programmer_ yaitu __id, class, src, href__. Namun Attribut yang sering digunakan dalam HTML adalah attribut __class__.
+Pada contoh di atas terdapat beberapa contoh __attribut__ yang kerap digunakan oleh _programmer_ yaitu __id, class, src, href__. Namun Attribut yang sering digunakan dalam HTML adalah attribut __class__. <br>
+
