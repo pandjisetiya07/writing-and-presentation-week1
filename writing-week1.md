@@ -40,4 +40,6 @@ __PANDJI SETIYA BUDHI ARTHA__ -- _Tugas writing minggu pertama_
 Apa bila muncul seperti gambar di atas maka __Instalasi Berhasil__<br>
 
 - __Setup Awal__<br>
-Untuk setup awal bisa menggunakan code <br>__git config --global user.name "Nama Kalian"__ <br> __git config --global user.email "Alamat Email"__
+Untuk setup awal bisa menggunakan code <br>__git config --global user.name "Nama Kalian"__ <br> __git config --global user.email "Alamat Email"__<br>
+
+- __Mengecek Setup Berhasil__<br>
