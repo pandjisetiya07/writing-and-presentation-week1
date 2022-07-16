@@ -53,7 +53,7 @@ Apa Bila berhasil maka akan muncul seperti gambar di bawah.<br>
 | __No__ | __Command__ | __Keterangan__ | __Hasil__ |
 |--------|-------------|----------------|-----------|
 |   1    | git init    | Untuk _Install_ git dalam directory kerja kita | 
-|   2    | git add & git add .| 
+|   2    | git add & git add . | __Menambakan 1 file__ ke dalam staging area dan masih perlu di commit, bila ingin menambahkan __Seluruh File__ maka tambahkan  __.__ | 
 |   3    | git commit -m "tambahkan pesan" |
 |   4    | git log     |
 |   5    | git revert  |
