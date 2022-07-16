@@ -43,3 +43,7 @@ Apa bila muncul seperti gambar di atas maka __Instalasi Berhasil__<br>
 Untuk setup awal bisa menggunakan code <br>__git config --global user.name "Nama Kalian"__ <br> __git config --global user.email "Alamat Email"__<br>
 
 - __Mengecek Setup Berhasil__<br>
+Ketikkan command dibawah ini untuk mengecek setup berhasil atau tidak.
+![git list](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/git%20list.PNG?raw=true)<br> 
+Apa Bila berhasil maka akan muncul seperti gambar di bawah.<br>
+![berhasil setup](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/berhasil%20setup.PNG?raw=true)
