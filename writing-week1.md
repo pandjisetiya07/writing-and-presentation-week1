@@ -86,3 +86,4 @@ ATTRIBUT adalah __properties__ dari sebuah HTML dan hampir semua HTML __memiliki
 Pada contoh di atas terdapat beberapa contoh __attribut__ yang kerap digunakan oleh _programmer_ yaitu __id, class, src, href__. Namun Attribut yang sering digunakan dalam HTML adalah attribut __class__. <br>
 [ x ] __HTML TABLE__ <br>
 Salah satu elemen yang akan sering digunakan, elemen ini akan menampilkan tabel pada halaman browser kita, contoh penulisan code tabel di html : <br>
+![html tabel](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/html%20tabel.png?raw=true)
