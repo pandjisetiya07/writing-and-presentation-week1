@@ -63,3 +63,7 @@ Apa Bila berhasil maka akan muncul seperti gambar di bawah.<br>
 |   9    | git checkout | Untuk __Pindah Branch__ yang di inginkan |
 |  10    | git checkout -b | __Membuat__ Branch dan langsung __pindah__ ke branch yang baru dibuat |
 |  11    | Git status   | Untuk melihat apakah file / folder yang telah di edit, dan sudah di __git add__ namun belum di __git commit__ atau pun yang sudah di commit |
+
+---------------------------------------------------------------
+
+3. __HTML DASAR__
