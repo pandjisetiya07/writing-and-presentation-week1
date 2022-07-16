@@ -57,7 +57,7 @@ Apa Bila berhasil maka akan muncul seperti gambar di bawah.<br>
 |   3    | git commit -m "tambahkan pesan" | Untuk __Save Perubahan__ pada _Version Control_ serta menambahkan _checkpoint_ |
 |   4    | git log     | Melihat __History__ / kumupalan __Commit__ yang telah dibuat |
 |   5    | git revert  | Kembali pada _Checkpoin_ yang diinginkan tanpa __menghapus__ commid sesudahnya |
-|   6    | git reset   |
+|   6    | git reset   | Kembali pada _Checkpoin_ yang diinginkan dan __menghapus__ commit sesudahnya | 
 |   7    | git branch   |
 |   8    | git branch -d |
 |   9    | git checkout |
