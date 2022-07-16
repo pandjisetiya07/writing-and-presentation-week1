@@ -73,10 +73,12 @@ HTML adalah suatu kerangka dari sebuah website yang digunkan untuk __menampilkan
 
 - Dasar - dasar HTML <br>
 [ x ] __Membuat file HTML__ --> buat file baru dengan extensi __.html / .htm__ <br>
-[ x ] __Struktur HTML__ <br>
+[ x ] __STRUKTUR HTML__ <br>
 ![dasar HTML](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/dasar%20html.PNG?raw=true) <br>
 Pada gambar diatas struktur HTML terdiri dari __HEAD__ dan __BODY__ . Yang nantinya akan muncul pada _brwoser_ yaitu yang berada di struktur __BODY HTML__. <br>
 [ x ] __HTML ANATOMY & HTML ELEMENT__ <br>
 ![html anatomy](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/html%20anatomy.png?raw=true) <br>
 Gambar di atas mendefinisakan __html element__ terdiri dari : __element, tag buka, tag tutup, dan content__ . contoh lainnya seperti gambar dibawah ini : <br>
-![html anatomy 2](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/html%20anatomy%202.png?raw=true)
+![html anatomy 2](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/html%20anatomy%202.png?raw=true) <br>
+[ x ] __HTML ATTRIBUT__ <br>
+ATTRIBUT adalah __properties__dari sebuah HTML dan hampir semua HTML __memiliki element attribut__. seperti pada contoh gambar dibawah ini : <br>
