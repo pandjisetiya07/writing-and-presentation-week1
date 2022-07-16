@@ -54,7 +54,7 @@ Apa Bila berhasil maka akan muncul seperti gambar di bawah.<br>
 |--------|-------------|----------------|-----------|
 |   1    | git init    | Untuk _Install_ git dalam directory kerja kita | 
 |   2    | git add & git add . | __Menambakan 1 file__ ke dalam staging area dan masih perlu di commit, bila ingin menambahkan __Seluruh File__ maka tambahkan  __.__ | 
-|   3    | git commit -m "tambahkan pesan" |
+|   3    | git commit -m "tambahkan pesan" | Untuk __Save Perubahan__ pada _Version Control_ serta menambahkan _checkpoint_ |
 |   4    | git log     |
 |   5    | git revert  |
 |   6    | git reset   |
