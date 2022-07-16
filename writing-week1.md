@@ -74,3 +74,4 @@ HTML adalah suatu kerangka dari sebuah website yang digunkan untuk __menampilkan
 - Dasar - dasar HTML <br>
 [ x ] __Membuat file HTML__ --> buat file baru dengan extensi __.html / .htm__ <br>
 [ x ] __Setruktur HTML__ <br>
+![dasar HTML](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/dasar%20html.PNG?raw=true) <br>
