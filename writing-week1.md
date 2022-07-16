@@ -58,7 +58,8 @@ Apa Bila berhasil maka akan muncul seperti gambar di bawah.<br>
 |   4    | git log     | Melihat __History__ / kumupalan __Commit__ yang telah dibuat |
 |   5    | git revert  | Kembali pada _Checkpoin_ yang diinginkan tanpa __menghapus__ commid sesudahnya |
 |   6    | git reset   | Kembali pada _Checkpoin_ yang diinginkan dan __menghapus__ commit sesudahnya | 
-|   7    | git branch   |
-|   8    | git branch -d |
-|   9    | git checkout |
-|  10    | git checkout -b |
+|   7    | git branch   | Biasanya digunakan apabila mengerjakan proyek dalam bentuk tim, dan tidak boleh mengganggu __Branch 'Master'__ yang ada |
+|   8    | git branch -d | Digunakan untuk __Menghapus__ Branch yang ada |
+|   9    | git checkout | Untuk __Pindah Branch__ yang di inginkan |
+|  10    | git checkout -b | __Membuat__ Branch dan langsung __pindah__ ke branch yang baru dibuat |
+|  11    | Git status   | Untuk melihat apakah file / folder yang telah di edit, dan sudah di __git add__ namun belum di __git commit__ atau pun yang sudah di commit |
