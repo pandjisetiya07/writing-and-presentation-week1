@@ -81,5 +81,6 @@ Pada gambar diatas struktur HTML terdiri dari __HEAD__ dan __BODY__ . Yang nanti
 Gambar di atas mendefinisakan __html element__ terdiri dari : __element, tag buka, tag tutup, dan content__ . contoh lainnya seperti gambar dibawah ini : <br>
 ![html anatomy 2](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/html%20anatomy%202.png?raw=true) <br>
 [ x ] __HTML ATTRIBUT__ <br>
-ATTRIBUT adalah __properties__dari sebuah HTML dan hampir semua HTML __memiliki element attribut__. seperti pada contoh gambar dibawah ini : <br>
+ATTRIBUT adalah __properties__ dari sebuah HTML dan hampir semua HTML __memiliki element attribut__. seperti pada contoh gambar dibawah ini : <br>
 ![html atribut](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/html%20atribut.PNG?raw=true) <br>
+Pada contoh di atas terdapat beberapa contoh __attribut__ yang kerap digunakan oleh _programmer_ yaitu __id, class, src, href__. Namun Attribut yang sering digunakan dalam HTML adalah attribut __class__.
