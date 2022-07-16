@@ -60,5 +60,5 @@ Apa Bila berhasil maka akan muncul seperti gambar di bawah.<br>
 |   6    | git reset   |
 |   7    | git branch   |
 |   8    | git branch -d |
-|   9    | 
-|  10    | 
+|   9    | git checkout |
+|  10    | git checkout -b |
