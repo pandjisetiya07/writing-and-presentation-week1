@@ -52,3 +52,13 @@ Apa Bila berhasil maka akan muncul seperti gambar di bawah.<br>
 
 | __No__ | __Command__ | __Keterangan__ | __Hasil__ |
 |--------|-------------|----------------|-----------|
+|   1    | git init    | 
+|   2    | git add & git add .|
+|   3    | git commit -m "tambahkan pesan"
+|   4    | 
+|   5    | 
+|   6    | 
+|   7    | 
+|   8    | 
+|   9    | 
+|  10    | 
