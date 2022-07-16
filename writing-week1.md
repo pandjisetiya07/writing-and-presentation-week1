@@ -50,8 +50,8 @@ Apa Bila berhasil maka akan muncul seperti gambar di bawah.<br>
 
 - __Daftar Command GIT yang Sering digunakan__<br>
 
-| __No__ | __Command__ | __Keterangan__ | __Hasil__ |
-|--------|-------------|----------------|-----------|
+| __No__ | __Command__ | __Keterangan__ |
+|--------|-------------|----------------|
 |   1    | git init    | Untuk _Install_ git dalam directory kerja kita | 
 |   2    | git add & git add . | __Menambakan 1 file__ ke dalam staging area dan masih perlu di commit, bila ingin menambahkan __Seluruh File__ maka tambahkan  __.__ | 
 |   3    | git commit -m "tambahkan pesan" | Untuk __Save Perubahan__ pada _Version Control_ serta menambahkan _checkpoint_ |
