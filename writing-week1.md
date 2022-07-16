@@ -46,4 +46,9 @@ Untuk setup awal bisa menggunakan code <br>__git config --global user.name "Nama
 Ketikkan command dibawah ini untuk mengecek setup berhasil atau tidak.
 ![git list](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/git%20list.PNG?raw=true)<br> 
 Apa Bila berhasil maka akan muncul seperti gambar di bawah.<br>
-![berhasil setup](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/berhasil%20setup.PNG?raw=true)
+![berhasil setup](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/berhasil%20setup.PNG?raw=true)<br>
+
+- __Daftar Command GIT yang Sering digunakan__<br>
+
+| __No__ | __Command__ | __Keterangan__ | __Hasil__ |
+|--------|-------------|----------------|-----------|
