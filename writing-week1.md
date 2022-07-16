@@ -54,10 +54,10 @@ Apa Bila berhasil maka akan muncul seperti gambar di bawah.<br>
 |--------|-------------|----------------|-----------|
 |   1    | git init    | 
 |   2    | git add & git add .|
-|   3    | git commit -m "tambahkan pesan"
-|   4    | 
-|   5    | 
-|   6    | 
+|   3    | git commit -m "tambahkan pesan" |
+|   4    | git log     |
+|   5    | git revert  |
+|   6    | git reset   |
 |   7    | 
 |   8    | 
 |   9    | 
