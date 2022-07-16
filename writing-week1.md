@@ -69,4 +69,6 @@ Apa Bila berhasil maka akan muncul seperti gambar di bawah.<br>
 3. __HTML DASAR__ <br>
 
 - Apa itu HTML ?<br>
-HTML adalah suatu kerangka dari sebuah website yang digunkan untuk __menampilkan konten pada browser__. Konten yang dapat di tampilkan seperti __TEXT, IMAGE, VIDEO, LINK, dan masih banyak lagi__
+HTML adalah suatu kerangka dari sebuah website yang digunkan untuk __menampilkan konten pada browser__. Konten yang dapat di tampilkan seperti __TEXT, IMAGE, VIDEO, LINK, dan masih banyak lagi__<br>
+
+- Dasar - dasar HTML <br>
