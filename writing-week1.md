@@ -224,6 +224,16 @@ Algoritma adalah deskripsi berupa step-step yang dibutuhkan untuk menyelesaikan 
 2. Setiap step harus benar-benar __clear dan tidak ambigu__. <br>
 3. Algoritma seharusnya tidak mengandung suatu code pada bahasa pemograman tertentu. Algoritma harus dibuat agar dapat digunakan dalam bahasa pemograman apapun.
 
+## __Apa itu Pseudoceode?__
+Pseudocode adalah menuliskan algoritma dengan umumnya bahasa inggris sebelum kita implementasikan ke bahasa pemograman tertentu.<br>
 
+## __Panduan menulis pseudocode__
+- Menggunakan HURUF BESAR pada kata kunci (key commands). <br>
+__CONTOH: IF number is > 10 THEN …__ <br>
+- 1 statement =  1 baris <br> 
+- Gunakan indentasi <br>
+- Please be specific <br>
+- Tapi tetap simpel <br>
+    
 
 
