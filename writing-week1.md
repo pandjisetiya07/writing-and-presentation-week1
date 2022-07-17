@@ -215,6 +215,15 @@ Setelah mempelajari __HTML Dasar__ sekrang kita akan masuk pada materi __CSS__ y
 
 --------------------------------------------------------------------------------------
 
-# 5. __Algritma dan Pseudoceode__
+# 5. __Algritma dan Pseudoceode__ <br>
+## __Apa itu Algotrima ?__ <br>
+Algoritma adalah deskripsi berupa step-step yang dibutuhkan untuk menyelesaikan suatu masalah. <br>
+
+## __Kualiatas Algoritma dapat dilihat dari 3 aspek yaitu :__
+1. __Input dan output__ harus didefinisikan terlebih dahulu dengan tepat. <br>
+2. Setiap step harus benar-benar __clear dan tidak ambigu__. <br>
+3. Algoritma seharusnya tidak mengandung suatu code pada bahasa pemograman tertentu. Algoritma harus dibuat agar dapat digunakan dalam bahasa pemograman apapun.
+
+
 
 
