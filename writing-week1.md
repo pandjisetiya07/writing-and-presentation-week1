@@ -125,6 +125,7 @@ Elemen Form dapat terdiri dari __check box, radio button, text area, email, pass
 __Hasilnya akan seperti gambar di bawah ini__ <br>
 ![html form checkbox](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/html%20form%20checkbox.PNG?raw=true) <br>
 
+---------------------------------------------------------------
 - __Radio Button__ <br>
 Radio Buttons digunakan ketika memerlukan form yang dapat memilih salah satu diantara beberapa pilihan. <br>
 
@@ -152,6 +153,7 @@ Radio Buttons digunakan ketika memerlukan form yang dapat memilih salah satu dia
 __Hasilnya akan seperti gambar di bawah ini__ <br>
 ![html form radio botton](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/html%20form%20radio%20button.PNG?raw=true) <br>
 
+---------------------------------------------------------------
 - __Text area__  merupakan elemen yang dapat menyimpan kata dan __dapat diperluas__ jika pengguna memasukkan __lebih banyak text__ sehingga dapat dimasukkan pada elemen text area. <br>
 ```
 <!DOCTYPE html>
@@ -172,5 +174,10 @@ __Hasilnya akan seperti gambar di bawah ini__ <br>
 </html>
 ```
 __Hasilnya akan seperti gambar di bawah ini__ <br>
-![html text area](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/html%20text%20area.PNG?raw=true) 
+![html text area](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/html%20text%20area.PNG?raw=true) <br>
+
+------------------------------------------------------------
+
+- __Email__ Yaitu mendefinisikan bidang untuk alamat email.
+Nilai input divalidasi secara otomatis untuk memastikan bahwa itu adalah alamat email yang diformat dengan benar. <br>
 
