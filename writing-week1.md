@@ -182,3 +182,10 @@ __Hasilnya akan seperti gambar di bawah ini__ <br>
 Nilai input divalidasi secara otomatis untuk memastikan bahwa itu adalah alamat email yang diformat dengan benar,
 berikut contoh penulisan nya : <br>
 ![html email](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/html%20email.PNG?raw=true)
+
+---------------------------------------------------------------
+- __Password__ Akan mendefinisikan bidang kata sandi (karakter disamarkan), berikut contoh penulisan nya : <br>
+![hrml password](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/html%20password.PNG?raw=true)
+
+---------------------------------------------------------------
+- __Button __
