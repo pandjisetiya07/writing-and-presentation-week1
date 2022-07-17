@@ -126,5 +126,29 @@ __Hasilnya akan seperti gambar di bawah ini__ <br>
 ![html form checkbox](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/html%20form%20checkbox.PNG?raw=true) <br>
 
 - __Radio Button__ <br>
-Radio Buttons digunakan ketika memerlukan form yang dapat memilih salah satu diantara beberapa pilihan.
+Radio Buttons digunakan ketika memerlukan form yang dapat memilih salah satu diantara beberapa pilihan. <br>
+
+```
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Radio Buttons</h2>
+
+<p>Choose your favorite Web language:</p>
+
+<form>
+  <input type="radio" id="html" name="fav_language" value="HTML">
+  <label for="html">HTML</label><br>
+  <input type="radio" id="css" name="fav_language" value="CSS">
+  <label for="css">CSS</label><br>
+  <input type="radio" id="javascript" name="fav_language" value="JavaScript">
+  <label for="javascript">JavaScript</label>
+</form> 
+
+</body>
+</html>
+```
+__Hasilnya akan seperti gambar di bawah ini__
+![html form radio botton](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/html%20form%20radio%20button.PNG?raw=true)
 
