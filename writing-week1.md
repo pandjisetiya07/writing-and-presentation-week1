@@ -98,4 +98,48 @@ Adapun tag lain sepeti __``<thead> <tbody> <tfoot>``__ <br>
 - Tag __``<tfoot>``__ digunakan untuk mengelompokkan bagian footer dari tabel. <br>
 [ x ] __HTML FORM__ <br>
 Form merupakan bagian pada HTML yang dapat digunakan untuk membuat elemen Form pada halaman Web.
-Elemen Form dapat terdiri dari __check box, radio button, menu, text box, text area, email, password, button dan lainnya__.
+Elemen Form dapat terdiri dari __check box, radio button, menu, text box, text area, email, password, button dan lainnya__. berikut penjelasan dari setiap element Form :<br>
+- __Checkbox__  : Digunakan ketika memerlukan form yang dapat memilih lebih dari satu pilihan contohnya. <br>
+
+```
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Checkboxes</h2>
+<p>The <strong>input type="checkbox"</strong> defines a checkbox:</p>
+
+<form action="/action_page.php">
+  <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+  <label for="vehicle1"> I have a bike</label><br>
+  <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+  <label for="vehicle2"> I have a car</label><br>
+  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+  <label for="vehicle3"> I have a boat</label><br><br>
+  <input type="submit" value="Submit">
+</form> 
+
+</body>
+</html>
+```
+__Hasilnya__
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Checkboxes</h2>
+<p>The <strong>input type="checkbox"</strong> defines a checkbox:</p>
+
+<form action="/action_page.php">
+  <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+  <label for="vehicle1"> I have a bike</label><br>
+  <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+  <label for="vehicle2"> I have a car</label><br>
+  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+  <label for="vehicle3"> I have a boat</label><br><br>
+  <input type="submit" value="Submit">
+</form> 
+
+</body>
+</html>
