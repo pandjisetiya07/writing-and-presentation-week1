@@ -200,3 +200,6 @@ berikut contoh penulisan nya : <br>
 ![html button](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/html%20button.jpg?raw=true)
 
 ---------------------------------------------------------------
+4. __CSS DASAR__ <br> 
+Setelah mempelajari __HTML Dasar__ sekrang kita akan masuk pada materi __CSS__ yang dapat di lihat pada tabel di bawah ini :
+
