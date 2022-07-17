@@ -153,4 +153,24 @@ __Hasilnya akan seperti gambar di bawah ini__ <br>
 ![html form radio botton](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/html%20form%20radio%20button.PNG?raw=true) <br>
 
 - __Text area__  merupakan elemen yang dapat menyimpan kata dan __dapat diperluas__ jika pengguna memasukkan __lebih banyak text__ sehingga dapat dimasukkan pada elemen text area. <br>
+```
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Styling Textarea</h2>
+
+<p>Use CSS to change the size of the textarea:</p>
+
+<form action="/action_page.php">
+  <textarea name="message" style="width:300px; height:200px;">The cat was playing in the garden.</textarea>
+  <br>
+  <input type="submit">
+</form>
+
+</body>
+</html>
+```
+__Hasilnya akan seperti gambar di bawah ini__ <br>
+![html text area](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/html%20text%20area.PNG?raw=true) 
 
