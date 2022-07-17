@@ -98,7 +98,7 @@ Adapun tag lain sepeti __``<thead> <tbody> <tfoot>``__ <br>
 - Tag __``<tfoot>``__ digunakan untuk mengelompokkan bagian footer dari tabel. <br>
 [ x ] __HTML FORM__ <br>
 Form merupakan bagian pada HTML yang dapat digunakan untuk membuat elemen Form pada halaman Web.
-Elemen Form dapat terdiri dari __check box, radio button, menu, text box, text area, email, password, button dan lainnya__. berikut penjelasan dari setiap element Form :<br>
+Elemen Form dapat terdiri dari __check box, radio button, text area, email, password, button dan lainnya__. berikut penjelasan dari setiap element Form :<br>
 - __Checkbox__  : Digunakan ketika memerlukan form yang dapat memilih lebih dari satu pilihan contohnya. <br>
 
 ```
@@ -149,6 +149,8 @@ Radio Buttons digunakan ketika memerlukan form yang dapat memilih salah satu dia
 </body>
 </html>
 ```
-__Hasilnya akan seperti gambar di bawah ini__
-![html form radio botton](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/html%20form%20radio%20button.PNG?raw=true)
+__Hasilnya akan seperti gambar di bawah ini__ <br>
+![html form radio botton](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/html%20form%20radio%20button.PNG?raw=true) <br>
+
+- __Text area__  merupakan elemen yang dapat menyimpan kata dan __dapat diperluas__ jika pengguna memasukkan __lebih banyak text__ sehingga dapat dimasukkan pada elemen text area. <br>
 
