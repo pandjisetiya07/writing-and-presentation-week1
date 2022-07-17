@@ -95,4 +95,7 @@ Pada gambar di atas terdapat beberapa tag yang berhubungan dengan table yaitu __
 Adapun tag lain sepeti __``<thead> <tbody> <tfoot>``__ <br>
 - Tag __``<thead>``__ digunakan untuk mengelompokkan bagian header tabel. <br>
 - Tag __``<tbody>``__ digunakan untuk mengelompokkan bagian konten atau body tabel.
-- Tag __``<tfoot>``__ digunakan untuk mengelompokkan bagian footer dari tabel.
+- Tag __``<tfoot>``__ digunakan untuk mengelompokkan bagian footer dari tabel. <br>
+[ x ] __HTML FORM__ <br>
+Form merupakan bagian pada HTML yang dapat digunakan untuk membuat elemen Form pada halaman Web.
+Elemen Form dapat terdiri dari __check box, radio button, menu, text box, text area, email, password, button dan lainnya__.
