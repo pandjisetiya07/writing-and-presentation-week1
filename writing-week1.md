@@ -179,5 +179,6 @@ __Hasilnya akan seperti gambar di bawah ini__ <br>
 ------------------------------------------------------------
 
 - __Email__ Yaitu mendefinisikan bidang untuk alamat email.
-Nilai input divalidasi secara otomatis untuk memastikan bahwa itu adalah alamat email yang diformat dengan benar. <br>
-
+Nilai input divalidasi secara otomatis untuk memastikan bahwa itu adalah alamat email yang diformat dengan benar,
+berikut contoh penulisan nya : <br>
+![html email](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/html%20email.PNG?raw=true)
