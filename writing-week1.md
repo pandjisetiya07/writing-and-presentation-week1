@@ -76,14 +76,20 @@ HTML adalah suatu kerangka dari sebuah website yang digunkan untuk __menampilkan
 [ x ] __STRUKTUR HTML__ <br>
 ![dasar HTML](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/dasar%20html.PNG?raw=true) <br>
 Pada gambar diatas struktur HTML terdiri dari __HEAD__ dan __BODY__ . Yang nantinya akan muncul pada _brwoser_ yaitu yang berada di struktur __BODY HTML__. <br>
+
+---------------------------------------------------------------
 [ x ] __HTML ANATOMY & HTML ELEMENT__ <br>
 ![html anatomy](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/html%20anatomy.png?raw=true) <br>
 Gambar di atas mendefinisakan __html element__ terdiri dari : __element, tag buka, tag tutup, dan content__ . contoh lainnya seperti gambar dibawah ini : <br>
 ![html anatomy 2](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/html%20anatomy%202.png?raw=true) <br>
+
+---------------------------------------------------------------
 [ x ] __HTML ATTRIBUT__ <br>
 ATTRIBUT adalah __properties__ dari sebuah HTML dan hampir semua HTML __memiliki element attribut__. seperti pada contoh gambar dibawah ini : <br>
 ![html atribut](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/html%20atribut.PNG?raw=true) <br>
 Pada contoh di atas terdapat beberapa contoh __attribut__ yang kerap digunakan oleh _programmer_ yaitu __id, class, src, href__. Namun Attribut yang sering digunakan dalam HTML adalah attribut __class__. <br>
+
+--------------------------------------------------------------
 [ x ] __HTML TABLE__ <br>
 Salah satu elemen yang akan sering digunakan, elemen ini akan menampilkan tabel pada halaman browser kita, contoh penulisan code tabel di html : <br>
 ![html tabel](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/html%20tabel.png?raw=true) <br>
@@ -96,6 +102,8 @@ Adapun tag lain sepeti __``<thead> <tbody> <tfoot>``__ <br>
 - Tag __``<thead>``__ digunakan untuk mengelompokkan bagian header tabel. <br>
 - Tag __``<tbody>``__ digunakan untuk mengelompokkan bagian konten atau body tabel.
 - Tag __``<tfoot>``__ digunakan untuk mengelompokkan bagian footer dari tabel. <br>
+
+---------------------------------------------------------------
 [ x ] __HTML FORM__ <br>
 Form merupakan bagian pada HTML yang dapat digunakan untuk membuat elemen Form pada halaman Web.
 Elemen Form dapat terdiri dari __check box, radio button, text area, email, password, button dan lainnya__. berikut penjelasan dari setiap element Form :<br>
@@ -190,3 +198,5 @@ berikut contoh penulisan nya : <br>
 ---------------------------------------------------------------
 -  __Button__ Elemen button ini biasa digunakan untuk membuat sebuah tombol, sehingga pengguna dapat melakukan suatu aksi, berikut contoh nya : <br>
 ![html button](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/html%20button.jpg?raw=true)
+
+---------------------------------------------------------------
