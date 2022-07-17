@@ -188,4 +188,5 @@ berikut contoh penulisan nya : <br>
 ![hrml password](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/html%20password.PNG?raw=true)
 
 ---------------------------------------------------------------
--  __Button__ Elemen button ini biasa digunakan untuk membuat sebuah tombol, sehingga pengguna dapat melakukan suatu aksi, berikut contoh nya :
+-  __Button__ Elemen button ini biasa digunakan untuk membuat sebuah tombol, sehingga pengguna dapat melakukan suatu aksi, berikut contoh nya : <br>
+![html button](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/html%20button.jpg?raw=true)
