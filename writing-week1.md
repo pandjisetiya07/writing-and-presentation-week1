@@ -11,7 +11,7 @@ __PANDJI SETIYA BUDHI ARTHA__ -- _Tugas writing minggu pertama_
 |  5 | Algritma dan Pseudoceode    |
  
 ---------------------------------------------------------------
-1. __Terminal Basic__<br>
+# 1. __Terminal Basic__<br>
     Sebuah Command untuk mengntrol file, membuat file, membuat folder, membuat akses, merubah akses ataupun membaca, membuat, merubah file, dan masih banyak lagi fungsi yang lainnya. Adapun perintah umum terminal basic dapat dilihat pada tabel di bawah ini :<br>
 
 | __No__ | __Command__ | __Keterangan__ |
@@ -31,7 +31,7 @@ __PANDJI SETIYA BUDHI ARTHA__ -- _Tugas writing minggu pertama_
 |   13   | clear       | Menghapus semua command yang ada |
 
 -----------------------------------------------------------------------------
-2. __GIT & GITHUB__
+# 2. __GIT & GITHUB__
 * GIT - berfungsi sebagai _Version Control System_ yang tugasnya __Mencatat__ setiap __perubahan pada File__. Pada suatu proyek baik __individu maupun tim__, GIT biasanya digunakan oleh programmer sebagai tempat __menyimpan__ file.
 <br>
 
@@ -66,7 +66,7 @@ Apa Bila berhasil maka akan muncul seperti gambar di bawah.<br>
 
 ---------------------------------------------------------------
 
-3. __HTML DASAR__ <br>
+# 3. __HTML DASAR__ <br>
 
 - Apa itu HTML ?<br>
 HTML adalah suatu kerangka dari sebuah website yang digunkan untuk __menampilkan konten pada browser__. Konten yang dapat di tampilkan seperti __TEXT, IMAGE, VIDEO, LINK, dan masih banyak lagi__<br>
@@ -200,7 +200,7 @@ berikut contoh penulisan nya : <br>
 ![html button](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/html%20button.jpg?raw=true)
 
 ---------------------------------------------------------------
-4. __CSS DASAR__ <br> 
+# 4. __CSS DASAR__ <br> 
 Setelah mempelajari __HTML Dasar__ sekrang kita akan masuk pada materi __CSS__ yang dapat di lihat pada tabel di bawah ini : <br>
 
 | __No__ | __Materi__ | __Penjelasan__ | __Gambar__ |
@@ -212,5 +212,9 @@ Setelah mempelajari __HTML Dasar__ sekrang kita akan masuk pada materi __CSS__ y
 |   5   | Tag Name CSS | Menggunakan tag HTML secara langsung pada CSS akan bersifat __global__ yang artinya __kita merubah satu tag maka semua isi dalam tag tersebut akan mengikuti__  | 1.[Code tag HTML](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/tag%20name%20css%20code%20html.png?raw=true) <br> 2. [tag name dalam file css](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/tag%20name%20css.png?raw=true) <br> 3. [hasil pada browser](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/hasil%20tag%20name%20css.png?raw=true) |
 |   6   | Perbedaan ID Name dan Class Name CSS | 1.  __ID Name / ID  selector__ ini merupakan selector untuk menentukan bagian yang __hanya ada satu__ pada halaman. Jika ada dua, maka hanya bekerja pada bagian pertama saja. ID dituliskan dengan awalan __pagar/sharp/kers ('#')__. <br> 2. __Class Name / Class selector__ bisa dipanggil __berkali kali pada satu halaman.__ Selector ini ditulis dengan awalan __titik atau dot “.”__ pada css dan __class=“nama-class”__ pada HTML. | 1. [id name pada HTML](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/selector%20ID%20pada%20html.PNG?raw=true) <br> 2. [id name pada CSS](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/selector%20ID%20pada%20CSS.PNG?raw=true) <br> 3.[class pada HTML](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/selector%20CLASS%20pada%20HTML.PNG?raw=true) <br> 4. [class pada CSS](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/selector%20CLASS%20pada%20CSS.PNG?raw=true) |
 |   7   | Multiple Selector | Mengefektifkan Code tanpa melakukannya berulang kaliseperti contoh dalam penggunaan _class_ di html. | Contoh : <br> 1.[Multiple selector pada HTML](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/multiple%20CSS%20pada%20HTML.PNG?raw=true) <br> 2. [Multiple selector pada file CSS](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/multiple%20CSS%20pada%20CSS.PNG?raw=true) <br> 3.[Hasil pada browser](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/multiple%20CSS%20pada%20browser.PNG?raw=true) | 
+
+--------------------------------------------------------------------------------------
+
+# 5. __Algritma dan Pseudoceode__
 
 
