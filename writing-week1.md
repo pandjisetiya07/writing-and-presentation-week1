@@ -201,5 +201,10 @@ berikut contoh penulisan nya : <br>
 
 ---------------------------------------------------------------
 4. __CSS DASAR__ <br> 
-Setelah mempelajari __HTML Dasar__ sekrang kita akan masuk pada materi __CSS__ yang dapat di lihat pada tabel di bawah ini :
+Setelah mempelajari __HTML Dasar__ sekrang kita akan masuk pada materi __CSS__ yang dapat di lihat pada tabel di bawah ini : <br>
+
+| __No__ | __Materi__ | __Penjelasan__ | __Gambar__ |
+|--------|------------|----------------|------------|
+|   1    | Apa Itu Css | Adalah bahasa yang digunakan untuk mendesain halaman website. Dengan CSS, kita bisa mengubah warna, menggunakan font custom, editing text format, mengatur tata letak, dan lainnya. | - |
+|   2    | Struktur CSS | Struktur CSS Mempunyai 3 bagian penting yaitu : <br> __1. Element html / selector__ -> adalah kata __kunci__ untuk menentukan element html yang akan di beri __style__ <br> __2. Properti__ -> merupakan atribut atau aturan yang akan diterapkan oleh elemen yang dipilih (selektor). <br> __3. Value__ -> isi dari _Properti_ perlakuan apa yang ingin kita berikan pada HTML yang kita _selector_ | [contoh 1 struktur css]()
 
