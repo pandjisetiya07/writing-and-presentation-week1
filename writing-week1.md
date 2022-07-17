@@ -235,5 +235,16 @@ __CONTOH: IF number is > 10 THEN …__ <br>
 - Please be specific <br>
 - Tapi tetap simpel <br>
     
+### 1. __PROCEDURAL__ 
+Adalah cara berpikir secara runtun. Artinya serangkaian perintah yang berurutan.
+
+### 2. __Conditional__ 
+Digunakan saat dibutuhkan percabangan kasus. Komputer akan melakukan suatu tindakan jika suatu kondisi terpenuhi. 
 
 
+### 3. __Looping__ 
+Komputer dapat melakukan sebuah proses yang sama berulang-ulang.
+Jika membutuhkan perulangan dalam kasus tertentu, kita bisa menggunakan Looping.
+
+### 4. __Recursive__ 
+Adalah pola pikir dalam algoritma yang memanggil method/function didalam sebuah function.
