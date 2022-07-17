@@ -122,24 +122,6 @@ Elemen Form dapat terdiri dari __check box, radio button, menu, text box, text a
 </body>
 </html>
 ```
-__Hasilnya__
+__Hasilnya akan seperti gambar di bawah ini__ <br>
+![html form checkbox](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/html%20form%20checkbox.PNG?raw=true) <br>
 
-<!DOCTYPE html>
-<html>
-<body>
-
-<h2>Checkboxes</h2>
-<p>The <strong>input type="checkbox"</strong> defines a checkbox:</p>
-
-<form action="/action_page.php">
-  <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
-  <label for="vehicle1"> I have a bike</label><br>
-  <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
-  <label for="vehicle2"> I have a car</label><br>
-  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
-  <label for="vehicle3"> I have a boat</label><br><br>
-  <input type="submit" value="Submit">
-</form> 
-
-</body>
-</html>
