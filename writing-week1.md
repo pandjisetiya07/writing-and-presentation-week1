@@ -125,3 +125,6 @@ Elemen Form dapat terdiri dari __check box, radio button, menu, text box, text a
 __Hasilnya akan seperti gambar di bawah ini__ <br>
 ![html form checkbox](https://github.com/pandjisetiya07/writing-and-presentation-week1/blob/main/img/html%20form%20checkbox.PNG?raw=true) <br>
 
+- __Radio Button__ <br>
+Radio Buttons digunakan ketika memerlukan form yang dapat memilih salah satu diantara beberapa pilihan.
+
